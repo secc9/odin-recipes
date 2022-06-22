@@ -1,19 +1,35 @@
-h1{
-  font-family: monospace;
-
+body{
+  background-color: rgb(222, 1, 202);
 }
 
+h1{
+  font-family: monospace;
+color: rgb(255, 255, 0);
+}
+img{
+  object-position: center; 
+
+}
+h2{
+  font-family: monospace;
+color: rgb(255, 255, 0);
+}
+
+
 li{
+  color: rgb(255, 255, 0);
   font-family: monospace;
   font-size: 20px;
 }
 
 p{
+  color: rgb(255, 255, 0);
   font-family: monospace;
   font-size: 20px;
 }
 
 a{
+  color: rgb(255, 255, 0);
   font-family: monospace;
   font-size: 20px;
 }
